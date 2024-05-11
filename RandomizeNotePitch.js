@@ -3,7 +3,7 @@ var SCRIPT_TITLE = "Randomize Note Pitch";
 function getClientInfo() {
   return {
     "name" : SV.T(SCRIPT_TITLE),
-    "author" : "Dreamtonics",
+    "author" : "LuciozUndiezz",
     "versionNumber" : 1,
     "minEditorVersion" : 65537
   };
